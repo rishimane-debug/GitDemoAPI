@@ -15,6 +15,9 @@ public class day4 {
 	public void beforeSuite()
 	{
 		System.out.println("I am no 1");
+		//Git x changes
+		System.out.println("I am no 1");
+		
 	}
 	@Test(groups= {"Smoke"})
 	public void mobileLoginCarLoan() {
