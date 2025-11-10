@@ -14,6 +14,9 @@ public class day1 {
 		public void afterTest()
 		{
 			System.out.println("This will run last");
+			System.out.println("Git Changes");
+			System.out.println("Git Changes");
+
 		}
 	
 	@Test
